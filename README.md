@@ -37,3 +37,5 @@ Como vemos que el total de ventas inicio una tendencia a la alza en Abriel 2018,
   <li>El producto con ventas mas altas es: productos de bebidas alcoholicas.</li>
 </p>
 <ul>
+
+![Tablero de ventas por tienda](https://github.com/HelenCVM/TiendasxLima-AnalisisDeDatos/blob/main/tiendaxlima.png)
