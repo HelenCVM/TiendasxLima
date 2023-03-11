@@ -24,12 +24,16 @@ Variables principales:
 </ul>
 
 <hr>
+<ul>
 ¿Que tan importante resulta que se analise esta data?
-<p>Estas tiendas reflejan en gran parte los productos mas demandados en mini-market. Esta sirviendo de referencia y estadistica descriptiva, dando a conocer las tendencias que tienen los productos a los largo del año 2018 y su influencia en las ventas. 
-Como vemos que el total de ventas inicio una tendencia a la alza en Abriel 2018, aumentando un 23,53% en 8 meses.Generando un crecimeinto entre Abril 2018 y Diciembre 2018.</p>
 <p>
- Las ventas en mayo son mas bajas en relacion con otros meses 
+ <li>Estas tiendas reflejan en gran parte los productos mas demandados en mini-market. Esta sirviendo de referencia y estadistica descriptiva, dando a conocer las tendencias que tienen los productos a los largo del año 2018 y su influencia en las ventas. 
+Como vemos que el total de ventas inicio una tendencia a la alza en Abriel 2018, aumentando un 23,53% en 8 meses.Generando un crecimeinto entre Abril 2018 y Diciembre 2018.</li>
+ </p>
+<p>
+ <li>Las ventas en mayo son mas bajas en relacion con otros meses.</li>
 </p>
 <p>
-  El producto con ventas mas altas es: productos de bebidas alcoholicas
+  <li>El producto con ventas mas altas es: productos de bebidas alcoholicas.</li>
 </p>
+<ul>
